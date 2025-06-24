@@ -1,0 +1,14 @@
+From: support@applesecurity.com  
+To: you@example.com  
+Subject: Your Apple ID has been locked!  
+
+Dear Customer,
+
+We noticed suspicious activity on your Apple account.  
+Please verify your account immediately by clicking below:
+
+http://apple.verify-now.info  
+
+If you don't do this in 24 hours, your account will be blocked.
+
+- Apple Support
