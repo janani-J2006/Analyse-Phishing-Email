@@ -1,4 +1,3 @@
-# Analyse-Phising-Email
 # Phishing Email Analysis
 
 This project contains a phishing email analysis task where a suspicious email is inspected for spoofing, fake links, urgency, and header manipulation.
